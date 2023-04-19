@@ -30,6 +30,10 @@ width: 500px;
 #homepagesite {
   width: 500px;
 }
+img {
+  max-height: 500px;
+  max-width: 500px;
+}
 body {
   background-color: #fca327;
 }

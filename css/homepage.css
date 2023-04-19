@@ -1,19 +1,5 @@
 /* this css file will only style the homepage of our site */
-
-.cat-photo {
-  margin: 10px;
-  max-width: 500px;
-}
 #my-portrait {
+  margin: 11px;
   width: 500px;
-}
-body {
-  background-color: rgb(159, 111, 204);
-}
-.minor-section {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: solid 1px #9a3ca4;
-  background-color: #be8ae3;
-  border-color: #9a3ca4;
 }
