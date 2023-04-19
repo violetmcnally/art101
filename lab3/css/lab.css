@@ -4,6 +4,40 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #9a3ca4;
+    background-color: #be8ae3;
+    border-color: #9a3ca4;
   }
+  #file {
+width: 500px;
+  }
+  #site {
+    width: 500px;
+  }
+#browser {
+  width: 500px;
+}
+  #my-portrait {
+    width: 500px;
+}
+#homepage1 {
+  width: 500px;
+}
+#vsfiles {
+  width: 140px;
+}
+
+#homepagesite {
+  width: 500px;
+}
+body {
+  background-color: #fca327;
+}
+.minor-section {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #9a3ca4;
+  background-color: #d994c8;
+  border-color: #9a3ca4;
+  background-color: #c1d32d;
+}
