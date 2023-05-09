@@ -3,6 +3,8 @@
 * Created: May 8th
 * License: Public Domanin
 */
+//variables
+var outputEl = document.getElementById("output");
 
 function isEven(x){
     return (x % 2 ==0);
