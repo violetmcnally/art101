@@ -1,0 +1,31 @@
+#content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px #7633ba00;
+    background-color: #67a72b;
+    background: radial-gradient(#67a72b, rgb(86 81 141));
+}
+
+img {
+    max-height: 500px;
+    max-width: 500px;
+  }
+  .minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #cebc17;
+    background-color: #e85ce8ce;
+    border-color: #c9c42a;
+  }
+  body {
+    background-color: rgb(86 81 141);
+}
+h1 {
+    color: #67a72b;
+}
+
+
+
+
+
+
