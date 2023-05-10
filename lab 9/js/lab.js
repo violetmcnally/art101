@@ -1,4 +1,6 @@
-//Author
+//Js file working with a partner to identify elements
+//Author Violet McNally <vmcnally@ucsc.edu>
+// created: May 9th 2023
 
 
 //creating variables
