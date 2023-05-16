@@ -5,9 +5,12 @@
  * (c) Copyright by Blub Corp.
  **/
 
-var button = document.getElementById('my-button');
-button.addEventListener('click', function() {
-    inputValue = document.getElementById('my-input').value;
-    console.log("You input:", inputValue);
-    document.writeln("Here you go!", sortUserName(),"</br>")
-});
+
+buttonEl= $('.minor-section').append('<button id=buttonChalEL> click me.</button>');
+
+
+
+  buttonEl= $('#buttonChalEL').click(function(){
+    $('#challenge').toggleClass('special');
+   alert("alert me motherfucker!")
+  });
