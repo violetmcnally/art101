@@ -1,0 +1,38 @@
+
+#content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px #1a8555;
+    background:
+    radial-gradient(
+        rgb(72, 250, 119) 40px,
+        transparent 0,
+        transparent 100%
+    ),
+    radial-gradient(
+        rgb(201, 154, 226) 40px,
+        transparent 0,
+        transparent 100%
+    ),
+    radial-gradient(
+        rgb(149, 212, 234) 40px,
+        transparent 0,
+        transparent 100%
+    ), snow;
+background-blend-mode: multiply;
+background-size: 100px 100px;
+background-position: 0 0, 33px 33px, -33px -33px;
+}
+
+  .minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #cebc17;
+    background-color: #e85ce8ce;
+    border-color: #c9c42a;
+  }
+
+h1 {
+    color: #862ba7;
+}
+
