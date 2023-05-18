@@ -2,14 +2,16 @@
     margin: 10px;
     padding: 10px;
     border: solid 1px #6629a300;
-    background-color: #67a72b;
-    background: radial-gradient(#7bcd2f, rgb(247, 44, 183));
+    background-color: #6ec121;
+    background: radial-gradient(#76db18, rgb(255, 8, 177));
 }
 
 h1 {
-    color: #67a72b;
+    color: #7dd828;
 }
 
 body {
     background-color: #fca327;
   }
+
+

@@ -6,15 +6,9 @@
  **/
 
 
-buttonEl= $('.minor-section').append('<button id=buttonChalEL> click me.</button>');
+buttonEl= $('.challenges, .problmes, .results').append('<button id=buttonChalEL> click me.</button>');
 
-  buttonEl= $('#buttonChalEL').click(function(){
-    $('#challenge').toggleClass('special');
-   alert("alert me motherfucker!")
-  });
-
-  $(".highlight-button").click(function(){
-    $(this).parent().toggleClass("special");
+    $(buttonEL).click(function(){
+    $(this).toggleClass('special')
   })
 
-  $(".sectionbox").append("<button class= 'btn-secondary hilight button'")("<toggle highlight>")

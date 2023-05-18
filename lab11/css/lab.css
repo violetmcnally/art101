@@ -24,7 +24,7 @@ background-size: 100px 100px;
 background-position: 0 0, 33px 33px, -33px -33px;
 }
 
-  .minor-section {
+#minor-section {
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #cebc17;
@@ -38,7 +38,7 @@ h1 {
 
 
 
-.buttonChalE {
+.buttonEl {
     width: 50%;
     color: rgb(36, 123, 37);
 }
