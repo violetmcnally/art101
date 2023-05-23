@@ -6,9 +6,9 @@
  **/
 
 
-buttonEl= $('.challenges, .problmes, .results').append('<button id=buttonChalEL> click me.</button>');
+buttonEl = $('.challenge, .problems, .results').append('<button id=button>click me</button>');
 
-    $(buttonEL).click(function(){
-    $(this).toggleClass('special')
-  })
-
+$(buttonEl).click(function () {
+  $(this).toggleClass('special');
+  alert("{alert me motherfucker}");
+})

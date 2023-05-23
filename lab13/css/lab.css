@@ -1,0 +1,30 @@
+img {
+    max-height: 700px;
+    max-width: 500px;
+  }
+  body {
+    background-color: #ed73c9;
+  }
+  main#content {
+    background-color: #c1d32d;
+}
+  .minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #14dcd2;
+    background-color: #d994c8;
+    border-color: #14dcd2;
+    background-color: #fca327;
+  }
+  
+  h1 {
+    color:  #fca327;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  
