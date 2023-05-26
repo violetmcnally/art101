@@ -1,0 +1,28 @@
+body {
+    background-image: url("img/download.jpg");
+  }
+
+  .minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #14dcd2;
+    background-color: #d994c8;
+    border-color: #14dcd2;
+    background-color: #fca327;
+  }
+
+  body {
+    background-color: #ed73c9;
+  }
+  main#content {
+    background-color: #c1d32d;
+}
+
+h1 {
+    color:  #639f0f;
+}
+
+img {
+    max-height: 500px;
+    max-width: 500px;
+  }
