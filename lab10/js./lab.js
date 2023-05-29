@@ -1,7 +1,7 @@
 
 // Author: Violet McNally <vmcnally@ucsc.edu>
 // Created: May 15th
-// License: Public Domanin
+// License: Public Domain
 
 function sortUserName() {
   var userName = document.getElementById('user-name').value;
