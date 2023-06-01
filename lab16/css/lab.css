@@ -1,0 +1,45 @@
+
+
+#content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px #69d417;
+    background:
+    radial-gradient(
+        rgb(250, 232, 72) 40px,
+        transparent 0,
+        transparent 100%
+    ),
+    radial-gradient(
+        rgb(144, 216, 232) 40px,
+        transparent 0,
+        transparent 100%
+    ),
+    radial-gradient(
+        rgb(98, 205, 16) 40px,
+        transparent 0,
+        transparent 100%
+    ), snow;
+background-blend-mode: multiply;
+background-size: 100px 100px;
+background-position: 0 0, 33px 33px, -33px -33px;
+}
+h1 {
+    color: #007ccf;
+}
+
+img {
+    max-height: 500px;
+    max-width: 500px;
+  }
+  body {
+    background-color: rgb(192, 202, 6);
+}
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #14dcd2;
+    background-color: #d994c8;
+    border-color: #14dcd2;
+    background-color: #fca327;
+  }
